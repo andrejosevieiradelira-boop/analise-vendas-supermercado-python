@@ -20,7 +20,9 @@ Projeto de análise de dados utilizando Python para analisar o faturamento de lo
 - Cálculo da margem de lucro
 -
 
-- Visualização de dados com gráficos<img width="640" height="480" alt="grafico_faturamento_mes" src="https://github.com/user-attachments/assets/6687b1a9-0dfe-42cf-b71e-e3f6ea8eb82e" />
+- Visualização de dados com gráficos
+-
+- <img width="640" height="480" alt="grafico_faturamento_mes" src="https://github.com/user-attachments/assets/6687b1a9-0dfe-42cf-b71e-e3f6ea8eb82e" />
 
 - <img width="640" height="480" alt="grafico_faturamento" src="https://github.com/user-attachments/assets/490132c8-17f7-4f58-8751-d8a4d5bfdbd0" />
 
